@@ -1,0 +1,33 @@
+.body {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  box-shadow: 0 0 2pt 2pt #d9534f;
+}
+
+.loginInput {
+  border-radius: 5px;
+  width: 100%;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}

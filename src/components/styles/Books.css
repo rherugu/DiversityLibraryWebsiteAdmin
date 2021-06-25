@@ -1,0 +1,28 @@
+.body {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  box-shadow: 0 0 2pt 2pt #d9534f;
+  margin: 10px;
+  margin-top: 5px;
+}
+
+.bookInput {
+  border-radius: 5px;
+  width: 30%;
+}
+
+.bookThumbnail {
+  margin-top: 20px;
+  box-shadow: 0 0 2pt 1pt #d9534f;
+  margin: 10px;
+  border-radius: 10px;
+}
